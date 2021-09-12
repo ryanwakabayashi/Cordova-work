@@ -4,7 +4,7 @@ Apache Cordova was developed by University of California, Berkeley and is an ope
 
 Application authors: Ryan Wakabayashi and Colin Campbell
 
-### This application was developed to find all BLE devices, but only works with a programmed mkr1010 device to transmit thermal data.
+This application was developed to find all BLE devices, but only works with a programmed mkr1010 device to transmit thermal data.
 
 ## Run application
 
