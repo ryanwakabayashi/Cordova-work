@@ -10,7 +10,7 @@ This application was developed to find all BLE devices, but only works with a pr
 
 Open within Android Studio on bleTempSensor\platforms\android
 
-Enable USB debugging on physical device **physical device is required to use Bluetooth**
+Enable USB debugging on physical device **(physical device is required to use Bluetooth)**
 
 Run 'app'
 
