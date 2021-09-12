@@ -1,6 +1,6 @@
 # Apache Cordova
 
-Apache Cordova was developed by University of California, Berkeley and is an open-source mobile development framework.
+Apache Cordova accessor host was developed by University of California, Berkeley and is an open-source mobile development middleware for IoT devices.
 
 Application authors: Ryan Wakabayashi and Colin Campbell
 
